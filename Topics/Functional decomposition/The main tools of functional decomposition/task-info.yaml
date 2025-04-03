@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: integers
+  - text: methods
+  - text: non-primitive variables
+  - text: hammers and hand drills
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10574#comment
+status: Solved
+record: -1
+selected_options:
+  - 1
+local_check: false

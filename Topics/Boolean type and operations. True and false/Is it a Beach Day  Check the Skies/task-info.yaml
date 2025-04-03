@@ -1,0 +1,13 @@
+type: code
+custom_name: Is it a Beach Day? Check the Skies!
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47997#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 22 Mar 2025 17:11:35 UTC"
+record: -1
+submission_language: java17
