@@ -4,7 +4,7 @@ files:
     visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/2248#comment
-status: Unchecked
+status: Solved
 record: -1
 rows:
   - float val = 2F; toString(val);

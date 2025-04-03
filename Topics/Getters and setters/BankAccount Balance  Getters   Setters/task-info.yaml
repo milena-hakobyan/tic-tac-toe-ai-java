@@ -15,7 +15,7 @@ files:
     visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/30028#comment
-status: Unchecked
+status: Solved
 record: -1
 custom_name: "BankAccount Balance: Getters & Setters"
 local_check: false

@@ -21,7 +21,7 @@ files:
   - name: test/TicTacToeTest.java
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/81/stages/449/implement#comment
+feedback_link: https://hyperskill.org/learn/step/7436#comment
 status: Solved
 feedback:
   message: Congratulations!
