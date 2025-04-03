@@ -152,9 +152,4 @@ public class AIPlayer extends Player{
             return min;
         }
     }
-
-
-
-
-
 }
