@@ -88,6 +88,6 @@ build
 
 # old stages
 /Tic-Tac-Toe with AI (Java)/*
-!/Tic-Tac-Toe with AI (Java)/task/
-/Tic-Tac-Toe with AI (Java)/task/*
-!/Tic-Tac-Toe with AI (Java)/task/src
+!/tic-tac-toe-ai-java/task/
+/tic-tac-toe-ai-java/task/*
+!/tic-tac-toe-ai-java/task/src
