@@ -85,6 +85,7 @@ build
 
 gradle/
 
+Topics/
 # idea config
 .idea
 
