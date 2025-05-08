@@ -11,6 +11,5 @@ programming_language: Java
 programming_language_version: 11
 content:
   - Topics
-  - Tic-Tac-Toe with AI (Java)
 mode: Study
 yaml_version: 2
