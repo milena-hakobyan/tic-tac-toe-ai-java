@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class GameTableTest {
 
-    private GameTable table = new GameTable();
+    private GameTable table;
 
     @BeforeEach
     void setUp(){
