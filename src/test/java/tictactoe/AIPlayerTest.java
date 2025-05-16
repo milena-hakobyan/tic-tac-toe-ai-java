@@ -25,7 +25,8 @@ class AIPlayerTest {
         aiPlayer.makeMove(table);
         int after = table.getNumMovesLeft();
 
-        assertEquals(before - 1, after);
+        assertEquals(before, 8);
+        assertEquals(after, 7);
         assertTrue(boardContainsSymbol('O'));
     }
 
