@@ -88,4 +88,4 @@ Topics/
 # idea config
 .idea
 
-./DS_Store
+.DS_Store
