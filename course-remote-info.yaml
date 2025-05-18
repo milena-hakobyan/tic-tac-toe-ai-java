@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://hyperskill.org/api/projects/81/additional-files/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Fri, 04 Apr 2025 11:30:49 UTC"
+update_date: "Thu, 08 May 2025 12:36:00 UTC"
 stages:
   - id: 447
     step: 7434
@@ -56,7 +56,7 @@ topics:
       theory_id: 3565
     - title: Increment and decrement
       theory_id: 5008
-    - title: Floating-point types
+    - title: Floating-point types and operations
       theory_id: 3517
     - title: Boolean type and operations. True and false
       theory_id: 3516
@@ -76,7 +76,7 @@ topics:
       theory_id: 10982
     - title: "Multiple conditions: switch"
       theory_id: 3504
-    - title: Data types and their sizes
+    - title: Primitive data types and their sizes
       theory_id: 3532
     - title: Type casting
       theory_id: 3510
